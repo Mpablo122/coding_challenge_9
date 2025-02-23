@@ -86,6 +86,6 @@ compania.listEmployees();
 
 //Task 4 implemented Payroll system 
 console.log("Total Payroll: $" + compania.calculateTotalPayroll()); 
-//Task 5
+//Task 5 implemented promotion system.
 console.log("After promotion:");
 compania.listEmployees();
