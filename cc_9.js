@@ -68,3 +68,6 @@ compania.addEmployee(emp12);
 compania.addEmployee(mgr12);
 compania.listEmployees();
 
+//Task 4 implemented Payroll system 
+
+console.log("Total Payroll: $" + compania.calculateTotalPayroll()); 
